@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereync",
+        "uuid": 3578445,
+        "checksum": "dxm1ul"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
